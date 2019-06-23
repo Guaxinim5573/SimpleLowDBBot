@@ -13,10 +13,10 @@ Um simples bot de exemplo criado em `Discord.js` e `LowDB`
 
  1. Você precisa do [Node.js](https://nodejs.org/) instalado em sua máquina
  
- 2. Baixe o zip e extraia para alguma pasta ou use `git clone https://github.com/Guaxinim5573/Simple-LowDB-Bot.git` no seu console
+ 2. Baixe o zip e extraia para alguma pasta ou use `git clone https://github.com/Guaxinim5573/SimpleLowDBBot.git` no seu console
  3. Use `npm install` para instalar as dependências
  4. Edite `config.js` (Instruções no própio arquivo)
- 5. Inicie com `npm start`
+ 5. Inicie com `node index.js`
 
 ### Author
 
